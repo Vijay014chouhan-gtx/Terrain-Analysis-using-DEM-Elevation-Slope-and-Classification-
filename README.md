@@ -3,7 +3,11 @@
 ## Overview
 This project demonstrates basic terrain analysis using Digital Elevation Model (DEM) data in Python.  
 It focuses on understanding elevation patterns, slope variation, and terrain classification without using advanced GIS software.
-[![Open In Colab](https://colab.research.google.com/drive/1NEPlMLzutSpKy6baheIH2SainEbUsmel#scrollTo=hCNVfMWU5otL))
+## Notebook
+
+Access the full analysis notebook here:
+
+[Open in Google Colab]([PASTE_YOUR_COLAB_LINK_HERE](https://colab.research.google.com/drive/1NEPlMLzutSpKy6baheIH2SainEbUsmel#scrollTo=hCNVfMWU5otL))
 ---
 
 ## Objective
