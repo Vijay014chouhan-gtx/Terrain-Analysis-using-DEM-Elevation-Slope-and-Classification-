@@ -81,7 +81,7 @@ The project generated:
 ![Terrain](PASTE_TERRAIN_IMAGE_LINK_HERE)
 
 ### Elevation Zones
-![Elevation](PASTE_ELEVATION_IMAGE_LINK_HERE)
+![Elevation]([PASTE_ELEVATION_IMAGE_LINK_HERE](https://github.com/Vijay014chouhan-gtx/Terrain-Analysis-using-DEM-Elevation-Slope-and-Classification-/raw/main/Elevation%20Zones.png))
 
 ---
 
