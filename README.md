@@ -7,7 +7,7 @@ It focuses on understanding elevation patterns, slope variation, and terrain cla
 
 Access the full analysis notebook here:
 
-[Open in Google Colab]([PASTE_YOUR_COLAB_LINK_HERE](https://colab.research.google.com/drive/1NEPlMLzutSpKy6baheIH2SainEbUsmel#scrollTo=hCNVfMWU5otL))
+[Open in Google Colab]([(https://colab.research.google.com/drive/1NEPlMLzutSpKy6baheIH2SainEbUsmel#scrollTo=hCNVfMWU5otL)])
 ---
 
 ## Objective
