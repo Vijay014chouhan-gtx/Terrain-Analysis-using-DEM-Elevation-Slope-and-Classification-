@@ -104,7 +104,7 @@ The project generated:
 
 ## How to Run
 
-1. Upload DEM file (`.tif`)
+1. Upload DEM file (`utput_SRTMGL1.tif`)
 2. Open the notebook in Google Colab or Jupyter
 3. Run all cells sequentially
 
