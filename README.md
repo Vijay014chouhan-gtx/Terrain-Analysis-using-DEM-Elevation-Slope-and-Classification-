@@ -78,10 +78,10 @@ The project generated:
 ## Sample Outputs
 
 ### Terrain Classification
-![Terrain](PASTE_TERRAIN_IMAGE_LINK_HERE)
+![Terrain](https://github.com/Vijay014chouhan-gtx/Terrain-Analysis-using-DEM-Elevation-Slope-and-Classification-/raw/main/Terrain%20Classification.png)
 
 ### Elevation Zones
-![Elevation]([PASTE_ELEVATION_IMAGE_LINK_HERE](https://github.com/Vijay014chouhan-gtx/Terrain-Analysis-using-DEM-Elevation-Slope-and-Classification-/raw/main/Elevation%20Zones.png))
+![Elevation]((https://github.com/Vijay014chouhan-gtx/Terrain-Analysis-using-DEM-Elevation-Slope-and-Classification-/raw/main/Elevation%20Zones.png))
 
 ---
 
