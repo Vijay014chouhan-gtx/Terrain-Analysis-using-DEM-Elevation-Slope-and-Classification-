@@ -81,7 +81,7 @@ The project generated:
 ![Terrain](https://github.com/Vijay014chouhan-gtx/Terrain-Analysis-using-DEM-Elevation-Slope-and-Classification-/raw/main/Terrain%20Classification.png)
 
 ### Elevation Zones
-![Elevation]((https://github.com/Vijay014chouhan-gtx/Terrain-Analysis-using-DEM-Elevation-Slope-and-Classification-/raw/main/Elevation%20Zones.png))
+![Elevation](https://github.com/Vijay014chouhan-gtx/Terrain-Analysis-using-DEM-Elevation-Slope-and-Classification-/raw/main/Elevation%20Zones.png)
 
 ---
 
@@ -115,7 +115,4 @@ The project generated:
 This project shows that meaningful terrain analysis can be performed using Python without relying on complex GIS tools.  
 The approach is simple, interpretable, and suitable for beginners in geospatial analysis.
 
----
 
-## Author
-Your Name
